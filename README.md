@@ -53,6 +53,7 @@ An **AI-driven platform** that streamlines **resume creation, optimization, and 
 - Save **tailored resumes, emails, and cover letters** in **PDF & HTML** formats.
 
 ---
+![Resume Tailor](IMAGES/IMG1.png)
 
 ## 🛠️ Tech Stack
 
