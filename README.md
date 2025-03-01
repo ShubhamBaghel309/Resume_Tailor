@@ -1,6 +1,6 @@
 # Job Ready AI
 
-![Resume Tailor](https://your-image-url.com/banner.png)
+![Resume Tailor](IMAGES/img2.png)
 
 ## 📌 Problem Statement
 
