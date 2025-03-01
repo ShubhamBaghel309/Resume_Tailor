@@ -81,14 +81,6 @@ An **AI-driven platform** that streamlines **resume creation, optimization, and 
 
 ### 📌 Prerequisites
 ✅ **Python 3.7+**  
-✅ **wkhtmltopdf** (for PDF generation)
-
-Install using:
-```bash
-sudo apt-get install wkhtmltopdf  # Linux
-brew install wkhtmltopdf          # macOS
-Download manually for Windows: https://wkhtmltopdf.org/downloads.html
-```
 
 ✅ **Groq API Key** – Get it from [Groq Console](https://console.groq.com)
 
